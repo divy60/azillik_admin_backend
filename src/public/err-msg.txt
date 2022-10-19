@@ -1,0 +1,146 @@
+err_0	Internal server error. Please try again after sometime
+***** AUTH API ***** 
+err_1	First name is required
+err_2	Last name is required
+err_3	Please provide a valid secret
+err_4	Phone Number is required
+err_5	Country is required
+err_6	Country code is required
+err_7	Invalid email address
+err_8	Password must be at least 8 characters in length
+err_9	Passwords don't match
+err_10	This email is already registered
+err_11	User does not belong to any account
+err_12	Your account E-mail address is not verified. We have send new verifiaction link to your email address. Please check mail box and verify your email
+err_13	Invalid email or password
+err_14	Your account is deleted
+err_15	Your account is deactivated. Please Contact us
+err_16	Please login with google account
+err_17	Please login with facebook account
+err_18	Password reset token is not valid
+err_19	Old password does not match
+err_20  Email already exists in pabbly
+	
+Success	
+	
+succ_1	You have successfully registered
+succ_2	You have login successfully
+succ_3	Password reset email Sent
+succ_4	Your password has been changed successfully
+succ_5	Your email is already verified
+succ_6	Account fetched successfully
+succ_7	Account updated successfully
+succ_8  Account deleted successfully
+
+***** PRODUCT API *****
+Error
+err_21 Please enter title
+err_22 Please enter description
+err_23 Please enter product link
+err_24 Please enter product id
+err_25 Product data not found
+err_30 Please enter sub title
+
+Success
+succ_21 Product data added successfully
+succ_22 Product data fetched successfully
+succ_23 Product data updated successfully
+succ_24 Product data deleted successfully
+
+***** PILLAR API *****
+Error
+err_26 Please enter name
+err_27 Please enter position
+err_28 Please enter pillor id
+err_29 Pillar data not found
+
+Success
+succ_26 Pillar data added successfully
+succ_27 Pillar data fetched successfully
+succ_28 Pillar data updated successfully
+succ_29 Pillar data deleted successfully
+
+***** Contact Us API *****
+Error
+err_31 Please enter whatsapp number
+err_32 Please enter message
+err_33 Please enter gender
+err_34 Please enter experience year
+err_35 Please enter age
+err_36 Please enter date of birth
+err_37 Please enter availability day
+err_38 Please enter location
+err_39 Please upload your resume
+err_40 Please enter current job title
+err_41 Please attach your project documentation
+err_42 Please enter skill
+err_43 Please enter hiring needs
+err_44 Please enter work type
+
+Success
+succ_31 Contact us added successfully
+succ_32 Apply job added successfully
+succ_33 Intership data added successfully
+succ_34 We work on data added successfully
+
+***** HOME PAGE API *****
+Error
+err_51 Please enter slider link
+err_52 Please enter home page id
+err_53 Home page Data not found
+err_54 Please enter question
+err_55 Please enter answer
+err_56 Please enter faq id
+err_57 FAQ data not found
+err_58 Please enter product growth id
+err_59 Product growth data not found
+
+Success
+succ_51 Home page data added successfully
+succ_52 Home page data  fetched successfully
+succ_53 Home page data updated successfully
+succ_54 Home page data deleted successfully
+succ_55 FAQ data added successfully
+succ_56 FAQ data fetched successfully
+succ_57 FAQ data updated successfully
+succ_58 FAQ data deleted successfully
+succ_59 Config data added successfully
+succ_60 Config data updated successfully
+succ_61 Product growth data added successfully
+succ_62 Product growth data fetched successfully
+succ_63 Product growth data updated successfully
+succ_64 Product growth data deleted successfully
+
+***** PORTFOLIO *****
+Error
+err_66 Please enter portfolio id
+err_67 Portfolio data not found
+
+Success
+succ_66 Portfolio added successfully
+succ_67 Portfolio data fetched successfully
+succ_68 Portfolio data updated successfully
+succ_69 Portfolio data deleted successfully
+
+***** TECHNOLOGY *****
+Error
+err_71 Please enter technology id
+err_72 Technology data not found
+
+Success
+succ_71 Technology added successfully
+succ_72 Technology data fetched successfully
+succ_73 Technology data updated successfully
+succ_74 Technology deleted successfully
+
+***** BLOG *****
+Error
+err_76 Please enter blog content
+err_77 Please enter blog id
+err_78 Blog data not found
+
+Success
+succ_76 Blog added successfully
+succ_77 Blog data fetched successfully
+succ_78 Blog updated successfully
+succ_79 Blog deleted successfully
